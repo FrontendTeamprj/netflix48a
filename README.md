@@ -1,6 +1,6 @@
 ## 과제
 ### netflix.com/kr FE 넷플릭스 코리아 클론코딩
--로그인&회원가입 페이지 추가 <br>
+-로그인&회원가입 페이지 2개정도 추가예정 <br>
 -반응형으로 리팩토링 <br>
 -랜딩페이지 배포 
 <br>(ksh322)
@@ -83,13 +83,10 @@ tab content for each selector -->
 
 > Also (Just a thought), You could advance this by adding some animations to the selector borders etc.
 
-## Features in Development
+# Features in Development
 
 I might add the other pages on the Netflix website if I ever come back to refactor ^-^
 
-## Contribution
-
-Contributions are highly welcome. Feel free to fork, clone, make pull requests, report issues etc.
 
 ## Acknowledgments
 
