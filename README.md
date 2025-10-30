@@ -15,6 +15,13 @@ SCIT 48기 A반
 넷플릭스 코리아 클론코딩
 [데모 시연 페이지](https://bankole2000.github.io/netflix)
 
+## 구성 요소 (기술스택)
+
+A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepage. Built with:
+
+- HTML
+- CSS
+- Vanilla JS - ES6
 ## Netflix Clone
 
 Clone of the Netflix website as a light HTML CSS and JS excercise - 
@@ -22,13 +29,7 @@ Clone of the Netflix website as a light HTML CSS and JS excercise -
 
 </div>
 
-## What it is
 
-A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepage. Built with:
-
-- HTML
-- CSS
-- Vanilla JS - ES6
 
 
 
