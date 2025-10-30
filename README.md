@@ -1,9 +1,9 @@
 ## 과제
-### netflix.com/kr FE 넷플릭스 코리아 클론코딩
+### netflix.com/kr FE 넷플릭스 코리아  클론코딩
 -한글화 작업 예정 by ksh322 <br>
--영어/한글/일본어..? 전환 기능 추가예정 <br>
+-영어/한글/일본어(?) 전환 기능 추가예정 <br>
 -로그인&회원가입 페이지 2개정도 추가예정 <br>
--반응형으로 리팩토링 <br>
+-반응형으로 리팩토링 예정 <br>
 -랜딩페이지 배포 by ksh322
 <br>
 
@@ -17,11 +17,13 @@ SCIT 48기 A반
 
 ## 구성 요소 (기술스택)
 
-A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepage. Built with:
+A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepage. 
+<br> Built with:
 
 - HTML
 - CSS
 - Vanilla JS - ES6
+
 ## Netflix Clone
 
 Clone of the Netflix website as a light HTML CSS and JS excercise - 
