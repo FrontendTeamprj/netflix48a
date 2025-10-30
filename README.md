@@ -1,6 +1,21 @@
-# Netflix Clone
+## 과제
+### netflix.com/kr FE 넷플릭스 코리아 클론코딩
+-로그인&회원가입 페이지 추가 <br>
+-반응형으로 리팩토링 <br>
+-랜딩페이지 배포 
+<br>(ksh322)
 
-Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look](https://bankole2000.github.io/netflix)
+## 팀원 소개
+SCIT 48기 A반
+서동욱님, 김상호님, 강준석님, 장지웅님
+
+## 프로젝트 소개
+넷플릭스 코리아 클론코딩
+[데모 시연 페이지](https://bankole2000.github.io/netflix)
+
+## Netflix Clone
+
+Clone of the Netflix website as a light HTML CSS and JS excercise - 
 
 [![Practice](https://img.shields.io/badge/Practice-HTML/CSS/JS-orange.svg)](https://bankole2000.github.io/netflix)
 
